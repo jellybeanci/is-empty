@@ -1,2 +1,2 @@
-# sleep
-Promise based async sleep function.
+# is-empty
+Simple Empty Object Checker.
