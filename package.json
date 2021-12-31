@@ -1,5 +1,5 @@
 {
-  "name": "is-empty",
+  "name": "@jellybeanci/is-empty",
   "version": "0.0.1",
   "description": "Simple Empty Object Checker.",
   "main": "index.js",
